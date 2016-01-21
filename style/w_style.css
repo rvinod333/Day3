@@ -1,0 +1,13 @@
+body{
+  width: 600px;
+  margin: 20px auto;
+  background: red;
+}
+img {
+  float: left;
+  margin-right: 25px;
+}
+.preview{
+  float: right;
+  width: 370px;
+}
